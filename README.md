@@ -1,3 +1,0 @@
-#Minimal Turtlebot Simulation
-
-##Description
